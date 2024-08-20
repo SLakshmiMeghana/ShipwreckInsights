@@ -8,7 +8,6 @@
 ## Table of Contents
 - [Data](#data)
 - [Features](#features)
-- [Usage](#usage)
 - [Modeling](#modeling)
 - [Results](#results)
 
