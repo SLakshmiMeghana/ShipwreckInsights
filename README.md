@@ -13,7 +13,7 @@
 
 ## Data
 
-The dataset used in this project is sourced from the [Kaggle Titanic dataset]([https://www.kaggle.com/c/titanic/data](https://www.kaggle.com/competitions/titanic/data)). It contains information about the passengers, such as:
+The dataset used in this project is sourced from the [Kaggle Titanic dataset]((https://www.kaggle.com/competitions/titanic/data)). It contains information about the passengers, such as:
 
 - PassengerId: A unique identifier for each passenger.
 - Pclass: Passenger class (1 = 1st, 2 = 2nd, 3 = 3rd).
