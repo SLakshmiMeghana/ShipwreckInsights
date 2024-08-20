@@ -1,17 +1,11 @@
-Creating a well-organized README file is essential for making your GitHub project accessible and easy to understand. Here’s a template for the **"ShipwreckInsights"** repository:
-
----
 
 # ShipwreckInsights
 
-![Titanic Image]([https://example.com/titanic_image.png](https://t4.ftcdn.net/jpg/05/61/14/99/360_F_561149921_nxo9Js5rCVmSGgOXSCUT6zLdtls3rZYB.webp)) 
 ## Overview
 
 **ShipwreckInsights** is a machine learning project that predicts the survival chances of passengers on the Titanic based on various features like age, gender, class, and more. This project is built using Python and popular libraries such as Pandas, Scikit-learn.
 
 ## Table of Contents
-
-- [Project Motivation](#project-motivation)
 - [Data](#data)
 - [Features](#features)
 - [Usage](#usage)
@@ -45,12 +39,6 @@ For this project, the following features were considered:
 - **Embarked**: The port from which the passenger embarked.
 
 Feature engineering and data preprocessing steps, such as handling missing values and creating new features, are discussed in the notebook.
-
-## Modeling
-
-Here's how you can describe the models used in your **ShipwreckInsights** project within the README file:
-
----
 
 ## Models Used
 
