@@ -61,4 +61,4 @@ Key findings from the project include:
 - Passengers in 1st class were more likely to survive.
 - The port of embarkation also played a role in survival chances.
 
-These insights are visualized using various plots and graphs in the notebook.
+These insights are visualized using various plots and graphs in the Analysis notebook.
